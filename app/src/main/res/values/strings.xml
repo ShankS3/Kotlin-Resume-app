@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Resume</string>
+    <string name="full_name">Shashank Survase</string>
+    <string name="avatar">Avatar</string>
+    <string name="work_history">Work history</string>
+    <string name="call">Call</string>
+    <string name="email">Email</string>
 </resources>
