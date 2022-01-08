@@ -1,4 +1,4 @@
-package com.ShankS3.resume
+package com.shankS3.resume
 
 import org.junit.Test
 
